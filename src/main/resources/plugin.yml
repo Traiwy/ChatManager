@@ -1,0 +1,11 @@
+name: ChatManager
+version: '${version}'
+
+main: dev.traiwy.chatManager.ChatManager
+api-version: '1.21.11'
+load: POSTWORLD
+commands:
+  chat_reload:
+  msg:
+  ignore:
+
